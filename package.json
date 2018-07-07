@@ -1,0 +1,28 @@
+{
+  "name": "node_course_hello_world",
+  "version": "1.0.0",
+  "description": "Hello World para o curso de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudineyjr/node_course_hello_world.git"
+  },
+  "keywords": [
+    "node.js",
+    "curso",
+    "course",
+    "hello",
+    "world",
+    "javascript"
+  ],
+  "author": "Claudiney Junior <claudiney.jr@caquicoders.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyjr/node_course_hello_world/issues"
+  },
+  "homepage": "https://github.com/claudineyjr/node_course_hello_world#readme"
+}
